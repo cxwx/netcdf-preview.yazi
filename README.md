@@ -12,7 +12,7 @@ A Yazi plugin for previewing NetCDF files.
 
 ```bash
 # Clone to your yazi plugins directory
-git clone https://github.com/cxwx/netcdf-preview.yazi.git ~/.config/yazi/plugins/netcdf-preview.yazi
+ya pkg add cxwx/netcdf-preview
 ```
 
 Add to your `yazi.toml`:
