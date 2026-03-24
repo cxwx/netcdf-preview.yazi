@@ -60,6 +60,11 @@ Global Attributes:
   Station_Altitude = "200"
 ```
 
+## AI @ develop
+
+using `claude-code`
+model: glm-5
+
 ## License
 
 MIT
